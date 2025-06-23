@@ -127,6 +127,6 @@ Model ini menunjukkan potensi yang sangat besar sebagai alat bantu deteksi kanke
 
 Kontribusi dalam bentuk *bug reports*, *feature requests*, atau *pull requests* sangat kami hargai.
 
-## Trimakasih untuk
+## Terimakasih untuk
 * Pak Mega Bagus Herlambang yang sudah membimbing saya untuk project ini
 * University of Wisconsin Hospitals yang telah menyediakan dataset kangker 
