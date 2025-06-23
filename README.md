@@ -76,7 +76,7 @@ Heatmap korelasi menunjukkan hubungan linear antar fitur. Terlihat ada korelasi 
 
 #### Pair Plot Fitur
 
-![Pair Plot](unduhan%20(1).jpg)
+![Pair Plot](unduhan%20(1).png)
 
 Pair plot ini menunjukkan distribusi setiap fitur dan hubungan antar pasangan fitur, dengan warna yang membedakan kelas target (status 0 atau 1). Terlihat pemisahan yang jelas antara kedua kelas untuk beberapa fitur kunci, menunjukkan bahwa fitur-fitur ini sangat prediktif.
 
