@@ -10,7 +10,7 @@ Dataset ini berisi fitur-fitur yang dihitung dari citra digital aspirasi jarum h
 
 * **Sumber Asli:** UCI Machine Learning Repository (University of Wisconsin Hospitals, Madison)
 * **Jumlah Sampel:** 569
-* **Jumlah Fitur:** 30 (misalnya, mean radius, mean texture, mean perimeter, mean area, dll.)
+* **Jumlah Fitur:** 30 (mean radius, mean texture, mean perimeter, mean area, dll.)
 * **Kelas Target:**
     * 0: Malignant (Ganas)
     * 1: Benign (Jinak)
