@@ -1,7 +1,5 @@
 # Proyek Deteksi Kanker Payudara Menggunakan Machine Learning
 
-![Breast Cancer Detection Banner](https://via.placeholder.com/1200x400/FF5733/FFFFFF?text=Deteksi+Kanker+Payudara+dengan+ML)
-
 Proyek ini bertujuan untuk mengembangkan model Machine Learning yang mampu mendeteksi kanker payudara (jinak/benign vs ganas/malignant) berdasarkan fitur-fitur klinis yang diekstrak dari dataset. Dengan fokus pada akurasi tinggi dan minimnya False Negatives untuk kasus ganas, model ini diharapkan dapat menjadi alat bantu yang berharga bagi tenaga medis dalam proses diagnosis awal.
 
 ## Dataset
