@@ -42,13 +42,23 @@ Visualisasi Confusion Matrix:
 * **True Positive (TP): 67**
     * Model dengan benar memprediksi 67 kasus **ganas** sebagai ganas.
 
-### Metrik Klasifikasi
-  precision    recall  f1-score   support
+#### Confusion Matrix
+|            | Prediksi 0 | Prediksi 1 |
+|------------|------------|------------|
+| Aktual 0   | 45         | 2          |
+| Aktual 1   | 0          | 67         |
 
-       0       1.00      0.96      0.98        47  (Benign/Jinak)
-       1       0.97      1.00      0.99        67  (Malignant/Ganas)
+#### Classification Report
+| Kelas | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     | 1.00      | 0.96   | 0.98     | 47      |
+| 1     | 0.97      | 1.00   | 0.99     | 67      |
+| **Accuracy** |       |        | **0.98** | **114** |
+| Macro Avg | 0.99  | 0.98   | 0.98     | 114     |
+| Weighted Avg | 0.98 | 0.98 | 0.98     | 114     |
 
-accuracy                           0.98       114
+**Akurasi Keseluruhan: 98.25%**                           
+  
 * **Akurasi Keseluruhan: 98.25%**
     * Proporsi prediksi benar secara keseluruhan.
 * **Recall (Sensitivitas) untuk Kelas Malignant (Ganas): 1.00 (100%)**
