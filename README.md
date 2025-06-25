@@ -129,4 +129,4 @@ Kontribusi dalam bentuk *bug reports*, *feature requests*, atau *pull requests* 
 
 ## Terimakasih untuk
 * Pak Mega Bagus Herlambang yang sudah membimbing saya untuk project ini
-* University of Wisconsin Hospitals yang telah menyediakan dataset kangker 
+* University of Wisconsin Hospitals yang telah menyediakan dataset 
